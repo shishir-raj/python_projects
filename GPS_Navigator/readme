@@ -1,0 +1,2 @@
+This python programs, asks the user the destination that they want to go to and their current location.
+It then provides the shortest path, to the destination, using google maps.
