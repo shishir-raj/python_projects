@@ -1,0 +1,3 @@
+This is a file sorter and cleaner program.
+When run in any specific directory, it will sort all the files present in that directory depending upon their extensions. Such as all the images are moved to one folder, all videos to another folder, all documents to a folder named documents, and other misc files to a different folder, in the same directory. 
+It is a very effective program to sort all your scattered files and stay organised.
