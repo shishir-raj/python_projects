@@ -1,0 +1,4 @@
+This is a python program that automatically sends customized email wishes(Birthday /anniversary / etc) from your desired mail address(without you opening it).
+All the user has to do is to maintain an excel file in the given format.
+Also before running the python program one must enter their email id and password where it is marked.
+The program reads the excel file, verifies the birthdate given in the file with todays date, and if it matches, sends a customized email on the person's given mail address in excel file
